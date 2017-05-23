@@ -1,4 +1,4 @@
-# contactbook
+# Employment directory
 A directory to store and display employment details for individuals. It is a demo app to understand the MEAN architecture.
 
 # Technologies used:
